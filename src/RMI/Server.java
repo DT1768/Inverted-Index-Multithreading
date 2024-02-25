@@ -7,7 +7,8 @@ public class Server {
     public static void main(String[] args) {
         try {
             // Create and export a remote object
-            InvertedIndexService service = new ImplForkJoinPool();
+            //InvertedIndexService service = new ImplForkJoinPool();
+            InvertedIndexService service = new ImplExecutor();
 
             // Create registry on port 1099
             Registry registry = LocateRegistry.createRegistry(1099);

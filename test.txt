@@ -1,6 +1,4 @@
-This is Dhruv Thakkar.
-This is RMI Service.
-RMI Service is used to create server.
-This is Dhruv Thakkar.
-This is RMI Service.
-RMI Service is used to create server.
+This is Dhruv
+This is RMI
+RMI is implmented.
+RMI
